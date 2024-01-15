@@ -14,7 +14,7 @@ html {
   }
   
   .container {
-    height: 90vh;
+    height: 100vh;
     margin: 0 auto;
     overflow: hidden;
     position: relative;
@@ -50,6 +50,7 @@ html {
     padding: 10px;
     position: relative;
     width: 600px;
+    overflow:scroll;
   }
   
   .text-box p {
